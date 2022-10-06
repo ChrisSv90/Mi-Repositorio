@@ -3,8 +3,12 @@ Buenas hice un cambio
 
 segundo cambio
 
+<<<<<<< Updated upstream
 Cuarto cambio cuates
 
 soy la rama_1 biches
 cambio posta
 jajajaja nope
+=======
+ahora hay un tercer cambio
+>>>>>>> Stashed changes
