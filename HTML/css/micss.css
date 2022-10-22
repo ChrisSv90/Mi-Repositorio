@@ -1,0 +1,76 @@
+*{
+    background-color: rgb(250, 220, 208);
+
+}
+@media only screen and (max-width:700px){
+
+    p{
+        background-color: rgb(255, 217, 0);
+        
+    }
+
+}
+
+@font-face {
+font-family: Bombing;
+src: url("css\font\Bombing\Bombing.ttf");
+}
+
+p{
+    background-color: aqua;
+    color: indigo;
+    font-size: 30px;
+}
+
+td{
+    background-color: #518646;
+    width: 50px;
+    height: 50px;
+}
+td{
+    background-color: #df5018;
+} 
+.fondolila{
+    background: violet;
+    font-size: 70px;
+}
+#cuatro{
+    text-align: center;
+    font-size: 60px;
+}
+#cinco{
+    text-align: center;
+    font-size: 80px;
+}
+#seis{
+    text-align: center;
+    font-size: 50px;
+    border-left: 5px;
+    border-left: solid rgb(70, 70, 255);
+}
+.titulo{
+    font-family: Bombing;
+}
+.textocentrado{
+    text-align: center;
+    font-size: 35px;
+}
+
+thead tr td{
+    background: #f197a7;
+    width: 100px;
+    height: 100px;
+}
+
+td{
+    background-color: #4446d6;
+    width: 50px;
+    height: 50px;
+}
+td{
+    background-color: #df5018;
+} 
+
+
+
+
